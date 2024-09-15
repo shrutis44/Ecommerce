@@ -78,7 +78,7 @@ const Men = () => {
                         </div>
                      </div>
                      <div class="crd">
-                        <img src="" alt="" onclick="show(this)"/>
+                        <img src="/men/men6.webp" alt="" onclick="show(this)"/>
                         <div class="crdText">
                             <h2>Cutton Trending Shirt's</h2>
                             <i class="fa-solid fa-star"></i>
